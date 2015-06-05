@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>49AD9154-957A-4776-8F2E-13208F630A5F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CustomFontLibrary</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1AE08A15CB21B452E675FF7CCE7C3A0F5B3083F1</key>
+		<string>https://github.com/chunfengsun/CustomFontLibrary.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CustomFontLibrary.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1AE08A15CB21B452E675FF7CCE7C3A0F5B3083F1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chunfengsun/CustomFontLibrary.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1AE08A15CB21B452E675FF7CCE7C3A0F5B3083F1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1AE08A15CB21B452E675FF7CCE7C3A0F5B3083F1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CustomFontLibrary</string>
+		</dict>
+	</array>
+</dict>
+</plist>
